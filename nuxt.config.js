@@ -8,7 +8,7 @@ export default {
   // Hosting on github https://nuxtjs.org/faq/github-pages#deploying-to-github-pages-for-repository
   router: {
     base: '/migliozzi.dev/'
-  }
+  },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
